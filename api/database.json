@@ -1,0 +1,196 @@
+{
+  "repulok":[
+  {
+    "id": 1,
+    "gyarto_neve": "ATR",
+    "tipus": "ATR 42-600",
+    "gyartas_ev": 2021,
+    "max_sebesseg": 821,
+    "hatotav": 6431
+  },
+  {
+    "id": 2,
+    "gyarto_neve": "Bombardier",
+    "tipus": "Learjet 75",
+    "gyartas_ev": 2019,
+    "max_sebesseg": 807,
+    "hatotav": 6939
+  },
+  {
+    "id": 3,
+    "gyarto_neve": "Boeing",
+    "tipus": "737 MAX",
+    "gyartas_ev": 2010,
+    "max_sebesseg": 904,
+    "hatotav": 5279
+  },
+  {
+    "id": 4,
+    "gyarto_neve": "ATR",
+    "tipus": "ATR 72-600",
+    "gyartas_ev": 2011,
+    "max_sebesseg": 926,
+    "hatotav": 6586
+  },
+  {
+    "id": 5,
+    "gyarto_neve": "ATR",
+    "tipus": "ATR 72-600",
+    "gyartas_ev": 2012,
+    "max_sebesseg": 825,
+    "hatotav": 6156
+  },
+  {
+    "id": 6,
+    "gyarto_neve": "ATR",
+    "tipus": "ATR 72-600",
+    "gyartas_ev": 2013,
+    "max_sebesseg": 857,
+    "hatotav": 5208
+  },
+  {
+    "id": 7,
+    "gyarto_neve": "Bombardier",
+    "tipus": "Challenger 350",
+    "gyartas_ev": 2013,
+    "max_sebesseg": 892,
+    "hatotav": 5145
+  },
+  {
+    "id": 8,
+    "gyarto_neve": "Boeing",
+    "tipus": "737 MAX",
+    "gyartas_ev": 2014,
+    "max_sebesseg": 819,
+    "hatotav": 6831
+  },
+  {
+    "id": 9,
+    "gyarto_neve": "Boeing",
+    "tipus": "737 MAX",
+    "gyartas_ev": 2012,
+    "max_sebesseg": 942,
+    "hatotav": 5497
+  },
+  {
+    "id": 10,
+    "gyarto_neve": "ATR",
+    "tipus": "ATR 72-600",
+    "gyartas_ev": 2014,
+    "max_sebesseg": 837,
+    "hatotav": 6618
+  },
+  {
+    "id": 11,
+    "gyarto_neve": "Bombardier",
+    "tipus": "Global 6000",
+    "gyartas_ev": 2013,
+    "max_sebesseg": 862,
+    "hatotav": 6768
+  },
+  {
+    "id": 12,
+    "gyarto_neve": "Boeing",
+    "tipus": "747-8",
+    "gyartas_ev": 2018,
+    "max_sebesseg": 862,
+    "hatotav": 6761
+  },
+  {
+    "id": 13,
+    "gyarto_neve": "Boeing",
+    "tipus": "787 Dreamliner",
+    "gyartas_ev": 2013,
+    "max_sebesseg": 915,
+    "hatotav": 5960
+  },
+  {
+    "id": 14,
+    "gyarto_neve": "Boeing",
+    "tipus": "737 MAX",
+    "gyartas_ev": 2023,
+    "max_sebesseg": 841,
+    "hatotav": 5160
+  },
+  {
+    "id": 15,
+    "gyarto_neve": "Bombardier",
+    "tipus": "Learjet 75",
+    "gyartas_ev": 2013,
+    "max_sebesseg": 804,
+    "hatotav": 6800
+  },
+  {
+    "id": 16,
+    "gyarto_neve": "Boeing",
+    "tipus": "737 MAX",
+    "gyartas_ev": 2015,
+    "max_sebesseg": 886,
+    "hatotav": 5114
+  },
+  {
+    "id": 17,
+    "gyarto_neve": "Boeing",
+    "tipus": "787 Dreamliner",
+    "gyartas_ev": 2016,
+    "max_sebesseg": 891,
+    "hatotav": 5530
+  },
+  {
+    "id": 18,
+    "gyarto_neve": "Airbus",
+    "tipus": "A350XWB",
+    "gyartas_ev": 2011,
+    "max_sebesseg": 907,
+    "hatotav": 6699
+  },
+  {
+    "id": 19,
+    "gyarto_neve": "Boeing",
+    "tipus": "737 MAX",
+    "gyartas_ev": 2019,
+    "max_sebesseg": 800,
+    "hatotav": 5107
+  },
+  {
+    "id": 20,
+    "gyarto_neve": "ATR",
+    "tipus": "ATR 72-600",
+    "gyartas_ev": 2021,
+    "max_sebesseg": 929,
+    "hatotav": 6772
+  },
+  {
+    "id": 21,
+    "gyarto_neve": "Embraer",
+    "tipus": "KC-390",
+    "gyartas_ev": 2010,
+    "max_sebesseg": 821,
+    "hatotav": 6777
+  },
+  {
+    "id": 22,
+    "gyarto_neve": "Embraer",
+    "tipus": "E195-E2",
+    "gyartas_ev": 2017,
+    "max_sebesseg": 810,
+    "hatotav": 5733
+  },
+  {
+    "id": 23,
+    "gyarto_neve": "Embraer",
+    "tipus": "E195-E2",
+    "gyartas_ev": 2020,
+    "max_sebesseg": 920,
+    "hatotav": 6475
+  },
+  {
+    "id": 24,
+    "gyarto_neve": "Embraer",
+    "tipus": "E190-E2",
+    "gyartas_ev": 2015,
+    "max_sebesseg": 834,
+    "hatotav": 5204
+  }
+]
+}
